@@ -4,10 +4,11 @@
 class Complex {
 	private double j;
 	private double i;
+	private String str;	//trying to merge the feature branch
 
 	//constructor
 	Complex(double j, double i) {
-		this.j = j;
+		this.j = j;git
 		this.i = i;
 	}
 	
