@@ -11,7 +11,7 @@ class Complex {
 		this.i = i;
 	}
 	
-	//printme
+	//printme - from java2git
 	public String toString() {
 		return j + " " + i + "i";
 	}
