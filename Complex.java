@@ -4,7 +4,7 @@
 class Complex {
 	private double j;
 	private double i;
-	private String str;	//trying to merge the feature branch
+	private String str;
 
 	//constructor
 	Complex(double j, double i) {
@@ -12,7 +12,7 @@ class Complex {
 		this.i = i;
 	}
 	
-	//printme - from java2git (master branch)
+	//printme
 	public String toString() {
 		return j + " " + i + "i";
 	}
